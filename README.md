@@ -16,11 +16,10 @@
 ---
 
 ## 🛠️ Technologies utilisées
+- **Langage C++**
+- **Logiciel QT**
+- **Widget State Management** 
 
-- **Flutter** (ou autre techno à adapter selon ton code)
-- **Dart**
-- **Widget State Management** (setState / Provider / etc.)
-- (Optionnel : Firebase ou base locale si utilisée)
 
 ---
 
